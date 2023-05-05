@@ -52,7 +52,7 @@ public class listOfMapExample {
         // move to first row
         resultSet.next();
 
-        //creating list for keeping all the rows maps
+        //creati ng list for keeping all the rows maps
         List<Map<String,Object>> queryData = new ArrayList<>();
 
         Map<String, Object> row1 = new HashMap<>();
